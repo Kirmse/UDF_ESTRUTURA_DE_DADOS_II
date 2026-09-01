@@ -21,4 +21,4 @@ Ao final da disciplina, espera-se ser capaz de:
 
 ## Docente
 
-Profa. Kadidja Valéria | [Currículo Lattes](http://lattes.cnpq.br/3820285204521293)
+Profa. Kadidja Valéria
