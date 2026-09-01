@@ -1,3 +1,5 @@
+# EXERCÍCIO 1 - SISTEMA DESFAZER DE UM EDITOR DE TEXTO UTILIZANDO LIFO
+
 class Editor:
     def __init__(self):
         self.texto = ""       # o texto atual do editor
