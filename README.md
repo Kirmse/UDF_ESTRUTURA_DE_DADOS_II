@@ -1,6 +1,6 @@
 # UDF_ESTRUTURA_DE_DADOS_II
 
-Repositório com os códigos, exercícios e atividades práticas da disciplina de **Estruturas de Dados II**.
+Repositório com os códigos, exercícios e atividades práticas da disciplina de **Estruturas de Dados II** da faculdade **UDF**.
 
 ## Sobre a disciplina
 
